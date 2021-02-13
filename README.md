@@ -1,0 +1,1 @@
+These are the files for the Bingo Home Screen.
