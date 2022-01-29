@@ -4,10 +4,7 @@ Created on Tue Dec 29 11:53:07 2020
 
 @author: Job de Vogel
 
-TO FIX:
--
-
-What this file will do:
+What this code will do:
 If a button on the arduino board is clicked, this script will find an audiofile
 on the computer and play it. If multiple buttons are clicked, there will be a queue
 in order of which they are clicked. Also, a potentiometer is added to change the
